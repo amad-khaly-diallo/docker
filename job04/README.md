@@ -11,3 +11,4 @@ tu le lances
 
 tu le verra sur le localhost
 `http://localhost:8080`
+![output](./resultat.jpg)
