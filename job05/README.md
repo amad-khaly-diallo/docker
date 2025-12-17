@@ -9,6 +9,12 @@ results.json
 default.conf: pour la configuration du lancement
 Dockerfile: pour les instruction de buld de l'image
 Faire un build de l'image `docker build -t image`
-![output](./build-.png)
+![output](./images/build-.png)
 faire un Run `docker run -d -p 8080:80 --name tic-tac-toe tic-tok-toe`
-![output](./lancement.png)
+![output](./images/lancement.png)
+
+## RENDU:
+![rendu](./images/rendu.png)
+
+## VOLUME:
+![rendu](./images/volume.png)
